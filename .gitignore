@@ -104,3 +104,5 @@ InitTestScene*.unity*
 .claude/
 .serena/
 CLAUDE.md
+Assets/Plugins/AllIn13DShader
+Assets/Plugins/AllIn13DShader.meta
